@@ -84,7 +84,6 @@ python delete_es_storage.py
 - `log_storage.py` — writes to Elasticsearch/OpenSearch
 - `alert_system.py` — prints alerts
 - `search_es_storage.py`, `delete_es_storage.py` — utilities
-- `requirements.txt`, `LICENSE`
+- `requirements.txt`
 
-## License
-MIT — see `LICENSE`.
+ 
