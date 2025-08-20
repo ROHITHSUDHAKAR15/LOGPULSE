@@ -1,0 +1,6 @@
+__pycache__/
+mini_project/
+.venv/
+.DS_Store
+.env
+*.log
